@@ -127,5 +127,3 @@ delBtn.addEventListener('click', () => {
     calculator.delete();
     calculator.updateDisplay();
 })
-
-console.log('dada')
